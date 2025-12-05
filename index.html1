@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+<meta charset="UTF-8">
+<title>فروش مبل - Khoze Furniture</title>
+<style>
+body { font-family: sans-serif; direction: rtl; background: #f4f4f4; margin: 0; }
+header { background: black; color: white; padding: 20px; text-align: center; }
+section { padding: 20px; text-align: center; }
+button {
+  padding: 12px 20px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>فروش مبل حرفه‌ای</h1>
+  <p>محصولات شیک – کیفیت بالا – قیمت مناسب</p>
+</header>
+
+<section>
+  <img src="https://i.imgur.com/lAUtGWn.jpeg" width="90%">
+  <h2>به فروشگاه مبل خوش آمدید</h2>
+  <p>بهترین مدل‌ها با ارسال سریع</p>
+  <a href="products.html">
+    <button>مشاهده محصولات</button>
+  </a>
+</section>
+
+</body>
+</html>
