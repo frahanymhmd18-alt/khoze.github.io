@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+<meta charset="UTF-8">
+<title>سفارش مبل</title>
+<style>
+body { font-family: sans-serif; direction: rtl; text-align: center; padding: 50px; }
+button { padding: 15px 25px; font-size: 18px; border: none; cursor: pointer; }
+</style>
+</head>
+<body>
+
+<h1>ثبت سفارش</h1>
+<p>برای سفارش، روی دکمه زیر کلیک کنید:</p>
+
+<a href="https://t.me/khoze_me">
+  <button>سفارش از طریق تلگرام</button>
+</a>
+
+</body>
+</html>
