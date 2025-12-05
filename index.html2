@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+<meta charset="UTF-8">
+<title>محصولات مبل</title>
+<style>
+body { font-family: sans-serif; direction: rtl; background: #fff; margin: 0; }
+.product {
+  background: #f5f5f5;
+  padding: 15px;
+  margin: 20px;
+  border-radius: 12px;
+  text-align: center;
+}
+img { width: 100%; border-radius: 12px; }
+button { padding: 10px 18px; border: none; cursor: pointer; }
+</style>
+</head>
+<body>
+
+<h1 style="text-align:center;">مدل‌های موجود</h1>
+
+<div class="product">
+  <img src="https://i.imgur.com/Lcc4uGI.jpeg">
+  <h2>مبل کلاسیک A</h2>
+  <p>قیمت: ۲۵ میلیون</p>
+  <a href="order.html"><button>سفارش</button></a>
+</div>
+
+<div class="product">
+  <img src="https://i.imgur.com/E8qW24A.jpeg">
+  <h2>مبل راحتی B</h2>
+  <p>قیمت: ۱۸ میلیون</p>
+  <a href="order.html"><button>سفارش</button></a>
+</div>
+
+<div class="product">
+  <img src="https://i.imgur.com/1X7cWDn.jpeg">
+  <h2>مبل L شکل C</h2>
+  <p>قیمت: ۳۰ میلیون</p>
+  <a href="order.html"><button>سفارش</button></a>
+</div>
+
+</body>
+</html>
